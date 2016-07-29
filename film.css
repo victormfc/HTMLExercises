@@ -1,0 +1,39 @@
+#uma {
+	display:block;
+	width:587px;
+	margin:auto;
+	background-color: #F4EBC3;
+}
+
+body {
+	display:block;
+	margin: 8px;
+}
+
+header{
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+	height: 100px;
+	width: 100%;
+	background-color: #B9D7D9;
+}
+
+article {
+	position:relative;
+	display: block;
+	border: 2px;
+	margin-top:2 px;
+	margin-left:auto;
+	margin-right: auto;
+	height: 1000px;
+	width: 1000px;
+	background-color: #F4EBC3;
+}
+
+footer {
+	display:block;
+	height: 100px;
+	width:100%;
+	background-color: #F4EBC3;
+}
